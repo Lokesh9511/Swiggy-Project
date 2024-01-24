@@ -1,0 +1,613 @@
+City,Food_type,OrderCount
+Hyderabad,"South Indian",76
+Hyderabad,Indian,38
+Hyderabad,Chinese,31
+Hyderabad,"Fast Food",18
+Hyderabad,Beverages,18
+Hyderabad,"North Indian",18
+Hyderabad,Pizzas,17
+Hyderabad,Sweets,14
+Hyderabad,Desserts,13
+Hyderabad,"North Indian,Chinese,Biryani",11
+Hyderabad,"North Indian,Chinese",11
+Hyderabad,Bakery,11
+Hyderabad,Arabian,10
+Hyderabad,"Ice Cream,Desserts",9
+Hyderabad,"Ice Cream",9
+Hyderabad,"Biryani,North Indian,Chinese",8
+Hyderabad,Biryani,8
+Hyderabad,"Bakery  Desserts",7
+Hyderabad,"Chinese,Fast Food",6
+Hyderabad,"Bakery,Desserts",6
+Hyderabad,"Indian,Chinese",6
+Hyderabad,"Ice Cream  Desserts",5
+Hyderabad,"Biryani,Chinese,South Indian,North Indian,Tandoor",5
+Hyderabad,Snacks,5
+Hyderabad,"Beverages,Snacks",5
+Hyderabad,"Sweets,Snacks",5
+Hyderabad,"North Indian,Biryani,Chinese",4
+Hyderabad,"Biryani,Chinese",4
+Hyderabad,"Desserts  Beverages",4
+Hyderabad,"Desserts  Bakery",4
+Hyderabad,"Sweets,Desserts",4
+Hyderabad,"Chinese,North Indian",4
+Hyderabad,"Beverages,Desserts",4
+Hyderabad,"Healthy Food",4
+Hyderabad,Continental,4
+Hyderabad,"North Indian  South Indian",3
+Hyderabad,"South Indian,North Indian,Chinese",3
+Hyderabad,"Sweets,Fast Food",3
+Hyderabad,"American,Fast Food",3
+Hyderabad,"North Indian,South Indian",3
+Hyderabad,"South Indian,North Indian",3
+Hyderabad,"Indian,Fast Food",3
+Hyderabad,"Desserts,Bakery",3
+Hyderabad,"Biryani,Tandoor,North Indian,Chinese,Kebabs,Mughlai",3
+Hyderabad,"Ice Cream,Desserts,Beverages",3
+Hyderabad,"Chinese,Indian",3
+Hyderabad,"Indian,Biryani,Chinese",3
+Hyderabad,"South Indian,Indian",3
+Hyderabad,"Desserts,Beverages",3
+Hyderabad,"Indian,Biryani",3
+Hyderabad,"Beverages,Fast Food",3
+Hyderabad,"Chinese,Snacks",3
+Hyderabad,"Indian  Chinese",3
+Hyderabad,"North Indian,Chinese,South Indian",3
+Hyderabad,"Biryani,Tandoor,Chinese,Indian,Desserts,Kebabs,Mughlai",2
+Hyderabad,"Biryani,Tandoor,Chinese,Indian,Kebabs,Desserts",2
+Hyderabad,"Indian,Chinese,Tandoor",2
+Hyderabad,"Biryani  North Indian  Chinese",2
+Hyderabad,Lebanese,2
+Hyderabad,"Biryani,Andhra,Rayalaseema,South Indian,North Indian,Chinese",2
+Hyderabad,"Chinese,Biryani",2
+Hyderabad,"Biryani,Chinese,North Indian",2
+Hyderabad,"Biryani,Chinese,Andhra,North Indian,South Indian,Tandoor",2
+Hyderabad,"Biryani,Chinese,Mughlai",2
+Hyderabad,"Italian,Pizzas",2
+Hyderabad,"North Indian,Chinese,South Indian,Tandoor",2
+Hyderabad,American,2
+Hyderabad,"North Indian,Biryani",2
+Hyderabad,"Sweets  Desserts",2
+Hyderabad,"Indian  South Indian  Chinese",2
+Hyderabad,"Snacks,Fast Food",2
+Hyderabad,"Haleem,Arabian,Biryani,Tandoor,Chinese,Indian,Desserts,Kebabs,Mughlai",2
+Hyderabad,"Fast Food  Beverages",2
+Hyderabad,"Beverages  Fast Food",2
+Hyderabad,"South Indian  Chinese",2
+Hyderabad,"Ice Cream,Beverages,Fast Food",2
+Hyderabad,"South Indian,Chinese",2
+Hyderabad,"Ice Cream  Desserts  Beverages",2
+Hyderabad,"Pizzas,Beverages",2
+Hyderabad,"American,Fast Food,Snacks",2
+Hyderabad,"Beverages  Desserts",2
+Hyderabad,"Biryani,Chinese,Indian",2
+Hyderabad,"Snacks,Indian",2
+Hyderabad,"South Indian,Chinese,Biryani",2
+Hyderabad,"North Indian,Biryani,Chinese,Indian,Tandoor",2
+Hyderabad,"Arabian,Fast Food",2
+Hyderabad,"South Indian,Snacks",2
+Hyderabad,"Continental,Beverages",2
+Hyderabad,"Fast Food,Pizzas",2
+Hyderabad,"Beverages,Juices",2
+Hyderabad,"Bakery,Desserts,Snacks",2
+Hyderabad,"Pizzas,Fast Food,Beverages",2
+Hyderabad,"Arabian,Lebanese",2
+Hyderabad,Maharashtrian,2
+Hyderabad,"South Indian  North Indian  Chinese",2
+Hyderabad,"Punjabi,North Indian,Chinese",2
+Hyderabad,"North Indian,Biryani,Combo,Snacks",2
+Hyderabad,"Arabian,Beverages",2
+Hyderabad,"Fast Food,Snacks",2
+Hyderabad,"Arabian,Snacks",2
+Hyderabad,"Italian  Beverages",2
+Hyderabad,"Chinese,Beverages",2
+Hyderabad,"South Indian  North Indian",2
+Hyderabad,"Punjabi,North Indian",2
+Hyderabad,"South Indian,Andhra",2
+Hyderabad,"Ice Cream,Beverages",2
+Hyderabad,"Desserts,Ice Cream",2
+Hyderabad,Paan,2
+Hyderabad,"Mughlai,North Indian,Chinese,Thai,Asian",1
+Hyderabad,"Arabian,Biryani,North Indian,Chinese",1
+Hyderabad,"Desserts,Fast Food,Bakery",1
+Hyderabad,"Chinese,Seafood",1
+Hyderabad,"Steakhouse,American",1
+Hyderabad,"Biryani  North Indian  Chinese  Tandoor",1
+Hyderabad,"North Indian  Chinese  Desserts  Continental  South Indian",1
+Hyderabad,"Ice Cream,Beverages,Desserts,Chaat,Italian",1
+Hyderabad,"Biryani,North Indian,Chinese,Tandoor",1
+Hyderabad,"Andhra,Seafood",1
+Hyderabad,"Sweets,Bakery,Desserts,Fast Food,Street Food,Chaat",1
+Hyderabad,"Chinese  Italian  Desserts  Bakery  Fast Food",1
+Hyderabad,"Biryani,Chinese,North Indian,South Indian",1
+Hyderabad,"Italian,Pizzas,Fast Food,Beverages,Desserts",1
+Hyderabad,"Mughlai,North Indian,Chinese,Seafood",1
+Hyderabad,"Ice Cream,Pizzas,Fast Food,Beverages,Desserts",1
+Hyderabad,"Biryani,Hyderabadi,Indian,Street Food",1
+Hyderabad,"Bakery,Pizzas",1
+Hyderabad,"North Indian,Biryani,Kerala",1
+Hyderabad,"North Indian,Chinese,Continental",1
+Hyderabad,"Italian,American",1
+Hyderabad,"Italian  Bakery",1
+Hyderabad,"Mughlai,Chinese,Tandoor",1
+Hyderabad,"South Indian,Biryani,Rayalaseema",1
+Hyderabad,"Bakery  Continental",1
+Hyderabad,"Chinese,Biryani,North Indian",1
+Hyderabad,"Bakery,Pizzas,Snacks,Chinese,Italian,American,Sweets,Desserts,Beverages",1
+Hyderabad,"Fast Food,Salads,Snacks,Desserts,Beverages",1
+Hyderabad,"Sweets  Desserts  Bakery  Beverages",1
+Hyderabad,"Indian,Chinese,North Indian,Punjabi,Tandoor,Kebabs,Biryani,Seafood,Oriental,Desserts,Sweets,Beverages,Combo",1
+Hyderabad,"North Indian,Chinese,Biryani,Continental,Mughlai",1
+Hyderabad,"Beverages,Snacks,Desserts",1
+Hyderabad,"Beverages  Snacks  Desserts",1
+Hyderabad,"Indian,Chinese,Biryani,Snacks,Desserts",1
+Hyderabad,"Desserts,Bakery,Beverages,Fast Food,Combo",1
+Hyderabad,"Japanese,Asian,Thai",1
+Hyderabad,"Italian,Beverages,Fast Food",1
+Hyderabad,"Biryani,Chinese,North Indian,Kebabs",1
+Hyderabad,"Arabian  Biryani  Mughlai",1
+Hyderabad,"Italian,Desserts,American",1
+Hyderabad,"Pan-Asian,Chinese",1
+Hyderabad,"Bakery,Pizzas,Snacks,Desserts",1
+Hyderabad,"Chinese,Biryani,Mughlai,North Indian,Haleem",1
+Hyderabad,"European,Italian,Continental,Desserts",1
+Hyderabad,"Fast Food  Pizzas  Beverages  Desserts",1
+Hyderabad,"American,Pizzas,Continental",1
+Hyderabad,"Arabian,Indian,Chinese",1
+Hyderabad,"American  Fast Food",1
+Hyderabad,"North Indian,Chinese,Continental,Seafood",1
+Hyderabad,"North Indian,Chinese,South Indian,Biryani",1
+Hyderabad,"Continental  Lebanese",1
+Hyderabad,"Hyderabadi,Mughlai,Biryani",1
+Hyderabad,"Biryani  North Indian  Chinese  Mughlai  Tandoor",1
+Hyderabad,"Fast Food,Chinese,Mughlai",1
+Hyderabad,"Arabian  Street Food",1
+Hyderabad,"Biryani,Arabian,Fast Food",1
+Hyderabad,"Continental,American,Italian",1
+Hyderabad,"Chinese,Mughlai,Tandoor,Biryani",1
+Hyderabad,"North Indian,Chinese,Biryani,South Indian",1
+Hyderabad,"Hyderabadi,Biryani,North Indian",1
+Hyderabad,"North Indian,Chinese,Biryani,Hyderabadi",1
+Hyderabad,"Arabian,Tandoor,Mughlai,Biryani,North Indian",1
+Hyderabad,"Afghani,Arabian,Indian,Tandoor",1
+Hyderabad,"Cafe  Desserts  Beverages",1
+Hyderabad,"Chinese,Indian,Mughlai",1
+Hyderabad,"Chinese,Italian,Desserts,Bakery,Fast Food",1
+Hyderabad,"Andhra,South Indian,Biryani",1
+Hyderabad,"Biryani,North Indian,Tandoor,Hyderabadi,Kebabs,Chinese",1
+Hyderabad,"Biryani,North Indian,Tandoor",1
+Hyderabad,"Mediterranean,Lebanese,Mughlai,North Indian,Chinese,Salads",1
+Hyderabad,"Fast Food  Middle Eastern  Cafe",1
+Hyderabad,"Healthy Food,North Indian,Beverages",1
+Hyderabad,"Bakery,Pizzas,Fast Food,Chinese,Italian,American,Sweets,Desserts,Beverages",1
+Hyderabad,"Bakery,Combo,Beverages,Maharashtrian,Snacks,Street Food,South Indian,Punjabi,Fast Food",1
+Hyderabad,"Ice Cream  Beverages  Fast Food",1
+Hyderabad,"Italian,Indian,Continental",1
+Hyderabad,"Arabian,Lebanese,Mediterranean,Biryani",1
+Hyderabad,"Asian,Chinese",1
+Hyderabad,"Fast Food,Bakery",1
+Hyderabad,"Fast Food,Italian,Beverages",1
+Hyderabad,"North Indian  Chinese  Biryani",1
+Hyderabad,"Chinese,South Indian,North Indian",1
+Hyderabad,"Biryani,Hyderabadi",1
+Hyderabad,"Bengali,North Indian,Chinese,Home Food,Thalis,Beverages",1
+Hyderabad,"Hyderabadi,Mughlai,Biryani,Indian,Chinese",1
+Hyderabad,"Cafe,Chinese,Continental",1
+Hyderabad,"Street Food,Arabian",1
+Hyderabad,"Biryani,Tandoor,Chinese,Indian",1
+Hyderabad,"Home Food,South Indian,North Indian,Thalis",1
+Hyderabad,"Chinese,South Indian,Fast Food,Hyderabadi",1
+Hyderabad,"Desserts,Fast Food,Beverages,Hyderabadi",1
+Hyderabad,"Chinese,Indian,Beverages,Snacks",1
+Hyderabad,"South Indian,Hyderabadi,Chinese,North Indian,Andhra",1
+Hyderabad,"Juices,Fast Food",1
+Hyderabad,"Sweets,Desserts,Snacks,Chaat",1
+Hyderabad,"Fast Food,American",1
+Hyderabad,"Biryani  Chinese",1
+Hyderabad,"Biryani,North Indian,Chinese,Kebabs",1
+Hyderabad,"Chinese,Biryani,Kebabs,Haleem",1
+Hyderabad,"Chinese,Biryani,Mughlai,North Indian",1
+Hyderabad,Cafe,1
+Hyderabad,"Desserts,Ice Cream,Beverages",1
+Hyderabad,"North Indian,Chinese,Tandoor",1
+Hyderabad,"North Indian,South Indian,Tandoor,Biryani",1
+Hyderabad,Italian,1
+Hyderabad,"Bakery,Fast Food",1
+Hyderabad,"Juices,Beverages,Healthy Food",1
+Hyderabad,"South Indian  North Indian  Mughlai",1
+Hyderabad,"Lebanese,Arabian,Fast Food",1
+Hyderabad,"Continental,Italian,North Indian,Chinese",1
+Hyderabad,"North Indian  Chinese  Indian",1
+Hyderabad,"Indian,Asian,Italian,European",1
+Hyderabad,"Arabian,Mughlai,North Indian",1
+Hyderabad,"Beverages  Ice Cream",1
+Hyderabad,"Chinese,Indian,Thalis,North Indian,Pan-Asian,Oriental,Kebabs,Tandoor,Fast Food,Desserts,Asian,Combo,Grill,Hyderabadi,Lucknowi,Mughlai,Bowl Company, Keventers & more",1
+Hyderabad,"Biryani  Indian  Hyderabadi  Fast Food  Haleem",1
+Hyderabad,"Bakery  Pizzas  Haleem",1
+Hyderabad,"Lebanese,Arabian",1
+Hyderabad,"Biryani,North Indian,Chinese,Fast Food,Haleem",1
+Hyderabad,"Biryani,Chinese,Tandoor,Mughlai,North Indian",1
+Hyderabad,Seafood,1
+Hyderabad,"Fast Food,Pizzas,Continental,Beverages,Desserts",1
+Hyderabad,"Pizzas,Beverages,Desserts,Ice Cream,Italian,Pastas",1
+Hyderabad,"Turkish,Arabian",1
+Hyderabad,"Sweets,North Indian,Bakery",1
+Hyderabad,Mexican,1
+Hyderabad,"Sweets  South Indian  North Indian  Snacks",1
+Hyderabad,"North Indian,Chinese,Tandoor,Biryani",1
+Hyderabad,"Biryani,North Indian,South Indian,Tandoor,Chinese",1
+Hyderabad,"Indian,Chinese,South Indian,Chaat",1
+Hyderabad,"Desserts,Italian,Bakery,Snacks,Pizzas",1
+Hyderabad,"Continental,Indian,Pan-Asian,Chinese,Beverages,Desserts",1
+Hyderabad,"Chinese,Kebabs,North Indian,South Indian,Tandoor",1
+Hyderabad,"Continental  North Indian  South Indian  Beverages",1
+Hyderabad,"Andhra,South Indian",1
+Hyderabad,"Arabian,Juices",1
+Hyderabad,"Snacks  South Indian",1
+Hyderabad,"Snacks,Fast Food,American",1
+Hyderabad,"Biryani,South Indian",1
+Hyderabad,"Salads,French,Beverages,Combo",1
+Hyderabad,"Continental,Fast Food",1
+Hyderabad,"Mexican  Beverages",1
+Hyderabad,"Healthy Food  Keto  North Indian  Continental",1
+Hyderabad,"Bakery  Fast Food  Snacks  Beverages",1
+Hyderabad,"South Indian,Telangana,Home Food",1
+Hyderabad,"Combo,Snacks,Beverages,Desserts",1
+Hyderabad,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",1
+Hyderabad,"Italian,Mexican,Pastas",1
+Hyderabad,"Ice Cream,Bakery,Desserts,Beverages",1
+Hyderabad,"North Indian  Punjabi  Biryani  Combo  Chinese  Beverages  Desserts  Jain  Indian  Hyderabadi  Mughlai",1
+Hyderabad,"North Indian,Punjabi,Combo,Biryani,Healthy Food,Jain,Thalis,Indian,Mughlai,Desserts",1
+Hyderabad,"South Indian,Kebabs,Biryani",1
+Hyderabad,"Biryani,North Indian,Chinese,South Indian",1
+Hyderabad,"Mughlai,Biryani,Indian,Chinese,Tandoor",1
+Hyderabad,"Arabian,Tandoor,North Indian,Chinese,Desserts",1
+Hyderabad,"Kerala,South Indian",1
+Hyderabad,"Indian,South Indian",1
+Hyderabad,"Beverages  Snacks",1
+Hyderabad,"Chinese,Asian,Thai,Seafood,Singaporean",1
+Hyderabad,"Fast Food,Tibetan,Chinese",1
+Hyderabad,"Bakery  Desserts  Australian  Snacks",1
+Hyderabad,"Beverages  Chaat  Desserts  Fast Food  Juices",1
+Hyderabad,"Bakery  Desserts  Fast Food  Snacks",1
+Hyderabad,"Pizzas,American,Fast Food,Desserts,Beverages",1
+Hyderabad,"Fast Food,North Indian",1
+Hyderabad,"Biryani,Kebabs,Indian,Chinese,Mughlai,Fast Food",1
+Hyderabad,"American,Continental,Indian",1
+Hyderabad,"Arabian,Mughlai,Indian",1
+Hyderabad,"Healthy Food  Juices  Continental",1
+Hyderabad,"Indian,Italian,Fast Food",1
+Hyderabad,"Biryani,South Indian,North Indian",1
+Hyderabad,"Fast Food  Combo  Desserts  Beverages",1
+Hyderabad,"North Indian  Chinese  Biryani  Fast Food",1
+Hyderabad,"Biryani,Kebabs,Hyderabadi,Tandoor",1
+Hyderabad,"Chinese,Pan-Asian,Seafood,Oriental",1
+Hyderabad,Punjabi,1
+Hyderabad,"Indian,Fast Food,Snacks",1
+Hyderabad,"Desserts  Bakery  Ice Cream",1
+Hyderabad,"Indian,North Indian,Chinese,Biryani,Tandoor",1
+Hyderabad,"Bakery,Desserts,Ice Cream,Beverages",1
+Hyderabad,"Bakery,Desserts,Ice Cream",1
+Hyderabad,"Snacks,Desserts",1
+Hyderabad,"Fast Food,Snacks,North Indian,Desserts,Beverages,Street Food,Combo",1
+Hyderabad,"Beverages,South Indian",1
+Hyderabad,"Snacks  Fast Food  Beverages",1
+Hyderabad,"North Indian  Combo  Street Food  Fast Food  Beverages",1
+Hyderabad,"Pizzas  Fast Food",1
+Hyderabad,"Biryani,Telangana",1
+Hyderabad,"Chinese,Indian,Snacks",1
+Hyderabad,"Fast Food,North Indian,Snacks,Salads,Beverages,Indian,Pastas",1
+Hyderabad,"Biryani,North Indian,Arabian,Lebanese",1
+Hyderabad,"Chinese,Thai,Seafood,Asian",1
+Hyderabad,"Hyderabadi,Tandoor,Kebabs,Grill,Biryani",1
+Hyderabad,"Beverages  South Indian",1
+Hyderabad,"Italian,Continental",1
+Hyderabad,"Italian,Pizzas,Pastas,Indian,Desserts,American",1
+Hyderabad,"Indian,Fast Food,Chinese,Arabian,Desserts",1
+Hyderabad,"South Indian,Chinese,Pizzas,Andhra,Hyderabadi,Maharashtrian,Fast Food,Salads,Beverages,North Indian",1
+Hyderabad,"Snacks,Beverages",1
+Hyderabad,"Italian,Desserts,Pizzas,American,Snacks",1
+Hyderabad,Juices,1
+Hyderabad,"Biryani,Hyderabadi,Desserts",1
+Hyderabad,"Desserts,Bakery,Sweets,Ice Cream,Beverages,Juices,Bengali",1
+Hyderabad,"Healthy Food,Salads",1
+Hyderabad,"North Indian,Snacks,Beverages",1
+Hyderabad,"Snacks  Indian",1
+Hyderabad,"North Indian  South Indian  Biryani  Tandoor",1
+Hyderabad,"Arabian,Continental,Haleem",1
+Hyderabad,"Bakery,Fast Food,Pizzas,Sweets",1
+Hyderabad,"South Indian,Thalis,Beverages",1
+Hyderabad,"Desserts,Arabian,Beverages",1
+Hyderabad,"Home Food,Indian,Healthy Food,North Indian,Snacks,Maharashtrian,Sweets,South Indian,Combo,Desserts,Beverages,Kebabs",1
+Hyderabad,"Asian,North Indian,Continental,Healthy Food,Punjabi,Home Food,Oriental,Desserts,Beverages,Pan-Asian,Bengali,Mangalorean,Kashmiri,Lucknowi,Chinese,Sweets,Kebabs,Combo,Rajasthani,Awadhi",1
+Hyderabad,"North Indian  Punjabi  Home Food  Indian  Snacks  Combo  Desserts  Beverages  South Indian  Continental  Chettinad  Healthy Food  Chinese  Sweets",1
+Hyderabad,"Biryani,Hyderabadi,Indian,Kebabs,North Indian,South Indian,Andhra,Afghani,Combo,Desserts,Beverages,Punjabi,Kerala,Sweets,Arabian,Lucknowi,Parsi,Tandoor",1
+Hyderabad,"Pizzas  Italian  Fast Food  Desserts  Continental  Mediterranean  American  Mexican  Indian  Combo  Beverages  Bakery  French  Sweets  European  Lebanese  Snacks",1
+Hyderabad,"Chaat,Fast Food",1
+Hyderabad,"Indian  Fast Food  Bakery",1
+Hyderabad,Pastas,1
+Hyderabad,"Street Food,Indian,South Indian,Snacks",1
+Hyderabad,"Asian,Chinese,Thai",1
+Hyderabad,"Desserts  Haleem  Home Food  Healthy Food  Fast Food  Sweets  Beverages",1
+Hyderabad,Chaat,1
+Hyderabad,"South Indian,Chinese,Desserts",1
+Hyderabad,"Sweets  Desserts  Chaat  Snacks  Bakery",1
+Hyderabad,"Arabian,Lebanese,Street Food",1
+Hyderabad,"Arabian,Biryani,Chinese",1
+Hyderabad,"Pizzas,Italian,Continental,American,Desserts",1
+Hyderabad,"Italian,Pizzas,Pastas,Desserts,Beverages",1
+Hyderabad,"Chaat  Snacks  Beverages",1
+Hyderabad,"Biryani,Tandoor,Chinese,North Indian,Desserts,Kebabs,Mughlai",1
+Hyderabad,"Chinese,Biryani,Kebabs,South Indian,Beverages",1
+Hyderabad,"Street Food  South Indian",1
+Hyderabad,"North Indian,Biryani,Tandoor,Chinese",1
+Hyderabad,"Street Food,Indian,Chinese",1
+Hyderabad,"Arabian,Lebanese,Beverages,Juices",1
+Hyderabad,"Snacks,Biryani,Fast Food",1
+Hyderabad,"Pizzas,American,Italian,Snacks",1
+Hyderabad,"Street Food  Indian  Beverages",1
+Hyderabad,"North Indian,Biryani,Mughlai,Tandoor,Snacks",1
+Hyderabad,"Fast Food,Beverages,Juices",1
+Hyderabad,"North Indian,Indian,Snacks,Beverages",1
+Hyderabad,"Chinese,Biryani,Indian",1
+Hyderabad,"Desserts,Bakery,Beverages",1
+Hyderabad,Haleem,1
+Hyderabad,"Desserts,Ice Cream,Healthy Food",1
+Hyderabad,"Indian  South Indian",1
+Hyderabad,"Barbecue,Biryani,Chinese",1
+Hyderabad,"Desserts,Waffle",1
+Hyderabad,"Sweets  Snacks  Bengali",1
+Hyderabad,"Sweets  Snacks",1
+Hyderabad,"Biryani,Indian,Chinese,Seafood",1
+Hyderabad,"Indian,Arabian,Chinese",1
+Hyderabad,"South Indian,Chinese,Fast Food,Snacks",1
+Hyderabad,"Juices,Beverages",1
+Hyderabad,"Juices  Beverages  Desserts",1
+Hyderabad,"Beverages,Ice Cream",1
+Hyderabad,"Chinese,Tandoor,Seafood,Biryani,Indian",1
+Hyderabad,"Arabian  Fast Food",1
+Hyderabad,"Fast Food,Pizzas,Pastas,Beverages",1
+Hyderabad,"North Indian,Biryani,Chinese,Tandoor,Indian",1
+Hyderabad,"Indian,Mughlai",1
+Hyderabad,"Indian,Hyderabadi",1
+Hyderabad,"Biryani,Desserts,Grill",1
+Hyderabad,"American,Italian,Indian",1
+Hyderabad,"Bakery  Desserts  Fast Food",1
+Hyderabad,"Chinese  Indian  Biryani",1
+Hyderabad,"Fast Food,Snacks,Italian,Chinese,Beverages",1
+Hyderabad,"Desserts,Fast Food",1
+Hyderabad,"Biryani,Tandoor,Mughlai",1
+Hyderabad,"Juices,Salads",1
+Hyderabad,"Chaat,Snacks",1
+Hyderabad,"Continental,Ice Cream,Bakery,Beverages",1
+Hyderabad,"Tandoor,Indian,Chinese,Biryani,Beverages",1
+Hyderabad,"Biryani,Chinese,Tandoor",1
+Hyderabad,"Biryani,Kebabs,Mughlai,North Indian",1
+Hyderabad,"Chaat,Fast Food,Maharashtrian,Beverages",1
+Hyderabad,"Indian,Chinese,Combo,Beverages",1
+Hyderabad,"Bakery,Sweets,Desserts",1
+Hyderabad,"Bakery  Desserts  Ice Cream",1
+Hyderabad,"Chinese,South Indian,Snacks,Combo,Beverages,Desserts",1
+Hyderabad,"Chinese,Indian,Biryani",1
+Hyderabad,"Indian,Biryani,Snacks,Fast Food,Beverages",1
+Hyderabad,"Pizzas,Italian,Mexican,Desserts,Fast Food,Snacks",1
+Hyderabad,"Fast Food,Beverages,Ice Cream",1
+Hyderabad,"Fast Food,Pizzas,Beverages",1
+Hyderabad,"Italian,Snacks",1
+Hyderabad,"South Indian,Chinese,Indian",1
+Hyderabad,"Indian  Fast Food  Beverages",1
+Hyderabad,"Biryani,Rayalaseema,Andhra,South Indian",1
+Hyderabad,"Seafood,Snacks,Grill",1
+Hyderabad,"North Indian,Chinese,Salads",1
+Hyderabad,"Indian,Punjabi,Fast Food",1
+Hyderabad,"Chinese,South Indian,North Indian,Fast Food",1
+Hyderabad,"Indian,Biryani,Combo",1
+Hyderabad,"Indian  South Indian  Chinese  Arabian",1
+Hyderabad,"Beverages,Healthy Food,Juices",1
+Hyderabad,"Tibetan,Fast Food,Chinese,Asian,Snacks,Continental,Desserts,Beverages",1
+Hyderabad,"Italian,Beverages,Pizzas,Pastas,Desserts,Mexican",1
+Hyderabad,"North Indian,Snacks",1
+Hyderabad,"Beverages,Desserts,Healthy Food,Ice Cream,Snacks",1
+Hyderabad,"Snacks  Beverages",1
+Hyderabad,"Chinese,South Indian,Biryani,Juices,Beverages,Ice Cream",1
+Hyderabad,"Healthy Food,Snacks",1
+Hyderabad,"Continental,Italian",1
+Hyderabad,"Fast Food  Bakery  Desserts  Beverages",1
+Hyderabad,"Healthy Food  Indian  Keto  Snacks  Bakery  North Indian",1
+Hyderabad,"Mexican,Pizzas,Pastas",1
+Hyderabad,"Fast Food,Beverages",1
+Hyderabad,Turkish,1
+Hyderabad,Andhra,1
+Hyderabad,"Desserts,Snacks,Beverages,Healthy Food",1
+Hyderabad,"Coastal  Indian  Seafood",1
+Hyderabad,"Fast Food,Lebanese,Continental,Healthy Food",1
+Hyderabad,"Continental,Pizzas,Beverages,Fast Food",1
+Hyderabad,"European,Snacks,Fast Food",1
+Hyderabad,"Snacks,Beverages,Fast Food",1
+Hyderabad,"Indian,North Indian,Chinese,Desserts,Beverages",1
+Hyderabad,"Bakery  Beverages",1
+Hyderabad,"American  Snacks",1
+Hyderabad,"Indian,Chinese,Biryani,Continental",1
+Hyderabad,"Fast Food,Salads,Snacks,Desserts",1
+Hyderabad,"South Indian,Biryani",1
+Hyderabad,"Italian  Pizzas",1
+Hyderabad,"Continental,Fast Food,Snacks",1
+Hyderabad,"Chinese,North Indian,Desserts,Beverages",1
+Hyderabad,"Healthy Food  South Indian",1
+Hyderabad,"Arabian,Continental,Snacks",1
+Hyderabad,"Chinese  North Indian",1
+Hyderabad,"Beverages,Juices,Salads",1
+Hyderabad,"American,Continental,Beverages,Desserts,Fast Food",1
+Hyderabad,"Bakery,Ice Cream,Desserts,Beverages,American,Fast Food",1
+Hyderabad,"Indian  Biryani",1
+Hyderabad,"Pizzas,Combo,Beverages",1
+Hyderabad,"Pizzas,Beverages,Fast Food",1
+Hyderabad,"Biryani,Hyderabadi,Mughlai",1
+Hyderabad,"Italian,Beverages,Pizzas,Snacks",1
+Hyderabad,"Pizzas,Fast Food,Chinese",1
+Hyderabad,"Biryani,North Indian,Beverages,Desserts,Chinese",1
+Hyderabad,"Pizzas,Fast Food",1
+Hyderabad,"Pizzas  Bakery",1
+Hyderabad,"Biryani,North Indian,Indian",1
+Hyderabad,"South Indian,North Indian,Biryani",1
+Hyderabad,"North Indian,Chinese,Biryani,Snacks,Fast Food,Indian,Seafood",1
+Hyderabad,"Italian,Pizzas,Fast Food",1
+Hyderabad,"Beverages  Ice Cream  Fast Food",1
+Hyderabad,"Pastas,Snacks,Salads,Juices,Sweets,Bakery,Beverages,Continental,Italian",1
+Hyderabad,"Indian,Desserts",1
+Hyderabad,"Bakery  Pizzas  Fast Food  Beverages",1
+Hyderabad,"South Indian,Beverages,Indian",1
+Hyderabad,"Biryani,Chinese,Seafood",1
+Hyderabad,"Fast Food  Desserts",1
+Hyderabad,"Beverages,Indian,Lebanese",1
+Hyderabad,"North Indian  South Indian  Healthy Food  Juices",1
+Hyderabad,"Pizzas,Fast Food,Pastas,Snacks,Italian,Desserts,North Indian,Indian",1
+Hyderabad,"Beverages,Desserts,Snacks",1
+Hyderabad,"Healthy Food  Continental  Indian  Chinese",1
+Hyderabad,"Arabian,Snacks,Fast Food",1
+Hyderabad,"Fast Food  Snacks  Beverages",1
+Hyderabad,"Indian,Biryani,Kebabs",1
+Hyderabad,"Biryani,Chinese,Indian,Snacks,Arabian,Combo",1
+Hyderabad,"Arabian,Kebabs,Biryani",1
+Hyderabad,"Fast Food,Pizzas,American",1
+Hyderabad,"Continental,Snacks",1
+Hyderabad,"Healthy Food,Pizzas,North Indian,Thalis,Biryani",1
+Hyderabad,"Italian,Bakery",1
+Hyderabad,"North Indian  Chinese  Tandoor  Sweets  Beverages",1
+Hyderabad,"Desserts  Ice Cream  Beverages",1
+Hyderabad,"Indian,North Indian,Chinese,Seafood,Biryani,Tandoor,Ice Cream",1
+Hyderabad,"Continental,Salads,Pizzas,Pastas,Italian-American",1
+Hyderabad,"Bakery  Desserts  Snacks",1
+Hyderabad,"Indian,Street Food",1
+Hyderabad,"Italian,Ice Cream,Beverages,Fast Food,Continental",1
+Hyderabad,"Indian,Chinese,Tandoor,Seafood",1
+Hyderabad,"Chinese,Bakery,Beverages",1
+Hyderabad,"Street Food,Chaat",1
+Hyderabad,"Indian,Chinese,Kebabs,Tandoor,Biryani,Snacks,Beverages,Desserts,Arabian",1
+Hyderabad,"Chinese,Bakery,Fast Food",1
+Hyderabad,"Biryani,Chinese,Tandoor,Ice Cream,Beverages",1
+Hyderabad,"Pizzas,Salads",1
+Hyderabad,"Beverages,Juices,Indian",1
+Hyderabad,"Snacks,Lebanese",1
+Hyderabad,"South Indian  Combo  Sweets",1
+Hyderabad,"North Indian,Seafood,Indian",1
+Hyderabad,"Arabian,Fast Food,Pizzas,Snacks,Beverages",1
+Hyderabad,"Fast Food,Continental,Pizzas,Snacks",1
+Hyderabad,"Bakery  Snacks",1
+Hyderabad,"Indian,Combo",1
+Hyderabad,"Indian  Chinese  Combo",1
+Hyderabad,Hyderabadi,1
+Hyderabad,"Pizzas  North Indian  Fast Food",1
+Hyderabad,"Bakery  Fast Food",1
+Hyderabad,"Snacks  Mexican  Pizzas  Italian",1
+Hyderabad,"Indian,Chinese,Arabian,Fast Food",1
+Hyderabad,"Indian,Chinese,Biryani",1
+Hyderabad,"Chinese,Sweets,Beverages",1
+Hyderabad,"Pizzas,Snacks,Beverages",1
+Hyderabad,"Lebanese,Chinese",1
+Hyderabad,"South Indian,Indian,Snacks",1
+Hyderabad,"North Indian,Indian,Chinese,Snacks",1
+Hyderabad,"Pizzas,Snacks",1
+Hyderabad,"Snacks  Combo",1
+Hyderabad,"Pizzas,Salads,Combo,Italian,Mexican,Desserts,Beverages",1
+Hyderabad,"Ice Cream,Desserts,Beverages,Ice Cream Cakes",1
+Hyderabad,"Sweets,Street Food,Snacks,Chaat,Bakery",1
+Hyderabad,"Sweets,Desserts,Chaat,Snacks,Beverages",1
+Hyderabad,"Chaat,Italian,Juices",1
+Hyderabad,"Indian  Chinese  Tandoor  South Indian",1
+Hyderabad,"South Indian  Juices  Indian",1
+Hyderabad,"Chaat,Chinese,Juices",1
+Hyderabad,"North Indian,Biryani,Chinese,Italian,Mexican,Desserts",1
+Hyderabad,"Sweets,Desserts,Snacks",1
+Hyderabad,"Italian,Juices,Fast Food",1
+Hyderabad,"Chaat,Italian",1
+Hyderabad,"Sweets,Chaat,Desserts",1
+Hyderabad,"Sweets  North Indian  Chinese  South Indian",1
+Hyderabad,"North Indian  Chinese  Continental",1
+Hyderabad,"North Indian  Chinese  South Indian",1
+Hyderabad,"Street Food,South Indian",1
+Hyderabad,"North Indian  Chinese  South Indian  Jain",1
+Hyderabad,"Desserts,Sweets",1
+Hyderabad,"North Indian,Chinese,Tandoor,Biryani,Beverages,Indian",1
+Hyderabad,"Punjabi  North Indian",1
+Hyderabad,"South Indian,North Indian,Chinese,Punjabi",1
+Hyderabad,"North Indian,Chinese,Italian",1
+Hyderabad,"South Indian  North Indian  Andhra",1
+Hyderabad,"North Indian,South Indian,Continental,Chinese",1
+Hyderabad,"North Indian,Tandoor,Punjabi,Chinese",1
+Hyderabad,"Desserts  Ice Cream  Chaat",1
+Hyderabad,"North Indian,Tandoor,Chinese",1
+Hyderabad,"Beverages,Ice Cream,Desserts,Healthy Food",1
+Hyderabad,"Desserts  Biryani  Chaat  Fast Food",1
+Hyderabad,"North Indian,South Indian,Italian,Chinese,Chaat,Beverages,Desserts",1
+Hyderabad,"Chinese  Italian",1
+Hyderabad,"Indian,Chinese,Punjabi,Jain",1
+Hyderabad,"North Indian,Tandoor",1
+Hyderabad,"Juices,Chaat,Beverages,Desserts",1
+Hyderabad,"Sweets,Beverages,Chaat,Desserts,Fast Food",1
+Hyderabad,"Chinese,Tandoor,North Indian",1
+Hyderabad,"South Indian  Chinese  Biryani",1
+Hyderabad,"North Indian,South Indian,Fast Food",1
+Hyderabad,"Ice Cream  Beverages",1
+Hyderabad,"North Indian,South Indian,Chinese",1
+Hyderabad,"Sweets  Desserts  Beverages",1
+Hyderabad,"Juices,Ice Cream",1
+Hyderabad,"Juices  Healthy Food",1
+Hyderabad,"South Indian,Juices,Ice Cream",1
+Hyderabad,"Bakery  Pizzas",1
+Hyderabad,"South Indian  Chinese  Indian",1
+Hyderabad,"North Indian,Jain,Chinese,Tandoor",1
+Hyderabad,"Italian,American,Pastas,Pizzas",1
+Hyderabad,"Juices,Ice Cream,Healthy Food",1
+Hyderabad,"Ice Cream  Desserts  Beverages  Ice Cream Cakes",1
+Hyderabad,"Indian,South Indian,Andhra",1
+Hyderabad,"Desserts,Beverages,Fast Food",1
+Hyderabad,"Ice Cream,Pizzas,Desserts",1
+Hyderabad,"South Indian  Beverages",1
+Hyderabad,"North Indian  Rajasthani  Sweets  Chaat  Indian  Snacks  Street Food  Home Food",1
+Hyderabad,"Bakery  Desserts  Beverages  Snacks",1
+Hyderabad,"Beverages,Fast Food,Italian,Snacks",1
+Hyderabad,"Biryani,Chinese,Hyderabadi,North Indian,Indian",1
+Hyderabad,"Continental,North Indian",1
+Hyderabad,"Beverages,Chaat,Fast Food,Juices,North Indian",1
+Hyderabad,"Chaat,Snacks,Bakery,Sweets",1
+Hyderabad,"South Indian  Fast Food  Chinese  Snacks  Juices",1
+Hyderabad,"South Indian  Snacks  Combo",1
+Hyderabad,"Desserts  Sweets",1
+Hyderabad,"Chaat  Street Food  Beverages  Home Food  Salads  Snacks",1
+Hyderabad,"Snacks  South Indian  Telangana",1
+Hyderabad,"Sweets  Desserts  Snacks  Home Food  Indian",1
+Hyderabad,"Hyderabadi,Desserts,Fast Food",1
+Hyderabad,"North Indian  Desserts  Biryani",1
+Hyderabad,"South Indian  Chinese  Fast Food  Desserts  Beverages",1
+Hyderabad,"Italian,Mongolian,Jain",1
+Hyderabad,"Indian  Fast Food",1
+Hyderabad,"Paan,Indian",1
+Hyderabad,"Bakery,Beverages,Desserts",1
+Hyderabad,"Beverages,Ice Cream,Desserts",1
+Hyderabad,"Street Food,Indian,Snacks",1
+Hyderabad,"Chinese  Indian",1
+Hyderabad,"Desserts,Ice Cream,Bakery",1
+Hyderabad,"Desserts  Ice Cream",1
+Hyderabad,"Indian,Chinese,South Indian",1
+Hyderabad,"Juices  Beverages  Ice Cream",1
+Hyderabad,"European,American,Chinese",1
+Hyderabad,"Chaat  Beverages  Juices",1
+Hyderabad,"Chinese,Biryani,Combo",1
+Hyderabad,"South Indian  Chaat  Sweets",1
+Hyderabad,"Juices  Salads",1
+Hyderabad,"Healthy Food  Salads  Chaat",1
+Hyderabad,"Snacks  Indian  Chinese",1
+Hyderabad,"South Indian  Biryani",1
+Hyderabad,Salads,1
+Hyderabad,"Bakery  Sweets  Desserts",1
+Hyderabad,"North Indian  Sweets",1
+Hyderabad,"South Indian,Snacks,Fast Food,Chaat",1
+Hyderabad,"Chinese,North Indian,Biryani",1
+Hyderabad,"Arabian,Chinese,Beverages",1
+Hyderabad,"Chinese,Italian,Beverages",1
+Hyderabad,"Chinese  South Indian",1
+Hyderabad,"Beverages  Ice Cream  Salads",1
+Hyderabad,"Beverages,Fast Food,Snacks,Pizzas,Chinese",1
+Hyderabad,"Chaat  Fast Food",1
+Hyderabad,"Snacks,American,Pizzas,Pastas,Beverages",1
